@@ -1,6 +1,7 @@
 # 📚북적북적📚
 
 ![image](https://github.com/user-attachments/assets/30c2798e-ce47-4b9a-a0be-c924283f3920)
+🔗 [배포 링크](https://bookjeokbookjeok.netlify.app/)
 
 ### 독서를 기록하고, 공유하는 독서 커뮤니티 플랫폼, 북적북적
 - 독서 다이어리를 작성하고, 관심사에 맞는 북클럽을 개설하거나 참여하며, 자유롭게 의견을 나누는 게시판 활동을 통해 다른 독자들과 소통할 수 있습니다.
